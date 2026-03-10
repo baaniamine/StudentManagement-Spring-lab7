@@ -8,6 +8,11 @@ A simple REST API built with Spring Boot for managing student records.
 https://github.com/user-attachments/assets/4904e3b6-eceb-4a8e-8792-558c11417753
 
 
+https://github.com/user-attachments/assets/87dace05-0d6b-4172-94a2-b04c7db7ab75
+
+
+
+
 
 ## Tech Stack
 
